@@ -1,6 +1,6 @@
-# XM Framework: Contrastive Learning for Composed Image Retrieval
+# ConFus-Net: A contrastive learning based Bi-modality fusion network for image retrieval
 
-This repository provides the implementation of the proposed X-Modalities (XM) framework for composed image retrieval using CLIP-based alignment, pseudo-token enhancement, and relational network fusion.
+This repository provides the implementation of the proposed ConFus-Net: A contrastive learning based Bi-modality fusion network for image retrieval using CLIP-based alignment, pseudo-token enhancement, and relational network fusion.
 
 ---
 
@@ -83,8 +83,8 @@ This script sequentially:
 If you use this code in your research, please cite our paper:
 
 ```
-@article{Ahmed2024XM,
-  title={X-Modalities Fusion using Contrastive Learning for Image Retrieval},
+@article{Ahmed2025ConFus-Net,
+  title={ConFus-Net: A contrastive learning based Bi-modality fusion network for image retrieval},
   author={Ikhlaq Ahmed et al.},
   journal={PeerJ Computer Science},
   year={2024}
